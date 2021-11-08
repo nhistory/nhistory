@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 <br>
 
-## I'm a Husband, Father and Developer !!
+## I aim for Fullstack developer. !!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 
@@ -74,6 +74,9 @@ I am very detail-oriented; it's a trait I nurtured during my last career, which 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+[CyclicRotation][https://nhistory.github.io/DevBlog/2021/10/03/cyclicrotation/]
+[Binary Gap][https://nhistory.github.io/DevBlog/2021/09/27/binary-gap/]
+[Immutability and Redux][https://nhistory.github.io/DevBlog/2021/09/20/immutability-and-redux/]
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://nhistory.github.io/DevBlog/)
