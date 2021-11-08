@@ -74,9 +74,9 @@ I am very detail-oriented; it's a trait I nurtured during my last career, which 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-[CyclicRotation][https://nhistory.github.io/DevBlog/2021/10/03/cyclicrotation/]
-[Binary Gap][https://nhistory.github.io/DevBlog/2021/09/27/binary-gap/]
-[Immutability and Redux][https://nhistory.github.io/DevBlog/2021/09/20/immutability-and-redux/]
+[CyclicRotation](https://nhistory.github.io/DevBlog/2021/10/03/cyclicrotation/) <br />
+[Binary Gap](https://nhistory.github.io/DevBlog/2021/09/27/binary-gap/) <br />
+[Immutability and Redux](https://nhistory.github.io/DevBlog/2021/09/20/immutability-and-redux/) <br />
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://nhistory.github.io/DevBlog/)
