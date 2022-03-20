@@ -1,6 +1,6 @@
 ### Hi there, I'm Sehwan - Software Engineer 👋
 
-[![Sehwan Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhistory)](https://github.com/nhistory/github-readme-stats)
+[![Sehwan Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhistory&show_icons=true&theme=algolia)](https://github.com/nhistory/github-readme-stats)
 
 <br>
 
