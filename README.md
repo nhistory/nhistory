@@ -14,7 +14,7 @@
 
 <br />
 
-I studied music composition at the art institute and worked as a music teacher and sound engineer for seven years. I later go to NSCC College to learn computer programming. I am a student of the Web Programming Development diploma at the NSCC Truro campus.
+I studied music composition at the art institute and worked as a music teacher and sound engineer for seven years. I later go to NSCC College to learn computer programming. I am a student of the Web Programming Development diploma at the NSCC IT campus.
 
 I am very detail-oriented; it's a trait I nurtured during my last career, which required me to catch minor differences in sound. I'm also a self-motivated learner with state-of-the-art technology, especially for problem-solving. I am always eager to research new things and have new experiences outside of my comfort zone.
 
