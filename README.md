@@ -8,7 +8,7 @@
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 
-- 🌱 I’m currently aspiring Full Stack Web Developer Studying 🤣
+- 🌱 I’m currently an aspiring Software Engineer Studying 🤣
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 - ⚡ Fun fact: I love movie, music and play piano
 
