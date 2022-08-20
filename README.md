@@ -4,7 +4,7 @@
 
 <br>
 
-## I aim for Fullstack developer. !!
+## I aim for Software Engineer. !!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 
