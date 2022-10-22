@@ -1,4 +1,4 @@
-### Hi there, I'm Sehwan - Software Engineer 👋
+### Hi there, I'm Sehwan - Web Developer 👋
 
 [![Sehwan Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhistory&show_icons=true&theme=algolia)](https://github.com/nhistory/github-readme-stats)
 
@@ -8,7 +8,7 @@
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 
-- 🌱 I’m currently an aspiring Software Engineer Studying 🤣
+- 🌱 I’m 2 years of experienced web developer. 🤣
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 - ⚡ Fun fact: I love movie, music and play piano
 
