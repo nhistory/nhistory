@@ -1,20 +1,18 @@
-### Hi there, I'm Sehwan - Web Developer 👋
+### Hi there, I'm Sehwan - Fullstack Developer 👋
 
 [![Sehwan Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhistory&show_icons=true&theme=algolia)](https://github.com/nhistory/github-readme-stats)
 
 <br>
 
-## I aim for Software Engineer. !!
+## I aim for Fullstack Developer. !!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 
-- 🌱 I’m 2 years of experienced web developer. 🤣
+- 🌱 I’m 3 years of experienced Fullstack developer. 🤣
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 - ⚡ Fun fact: I love movie, music and play piano
 
 <br />
-
-I studied music composition at the art institute and worked as a music teacher and sound engineer for seven years. I later go to NSCC College to learn computer programming. I am a student of the Web Programming Development diploma at the NSCC IT campus.
 
 I am very detail-oriented; it's a trait I nurtured during my last career, which required me to catch minor differences in sound. I'm also a self-motivated learner with state-of-the-art technology, especially for problem-solving. I am always eager to research new things and have new experiences outside of my comfort zone.
 
