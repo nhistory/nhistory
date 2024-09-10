@@ -4,7 +4,7 @@
 
 <br>
 
-## I am a Fullstack Developer. !!
+## I am a Front-End Engineer. !!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 
