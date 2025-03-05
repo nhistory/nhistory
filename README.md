@@ -1,10 +1,10 @@
-### Hi there, I'm Sehwan - Front-End Engineer 👋
+### Hi there, I'm Sehwan - Full Stack Developer 👋
 
 [![Sehwan Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhistory&show_icons=true&theme=algolia)](https://github.com/nhistory/github-readme-stats)
 
 <br>
 
-## I am a Front-End Engineer. !!
+## I am a Full Stack Developer. !!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 
