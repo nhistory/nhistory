@@ -8,7 +8,7 @@
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 
-- 🌱 I’m 3 years of experienced Fullstack developer. 🤣
+- 🌱 I’m 5+ years of experienced Fullstack developer. 🤣
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 - ⚡ Fun fact: I love movie, music and play piano
 
@@ -18,12 +18,16 @@ I am very detail-oriented; it's a trait I nurtured during my last career, which 
 
 <br />
 
+<!--
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+-->
 
 <br />
 
@@ -69,17 +73,19 @@ I am very detail-oriented; it's a trait I nurtured during my last career, which 
 
 --- -->
 
+<!--
 ### 📕 Latest Blog Posts
+-->
 
-<!-- BLOG-POST-LIST:START -->
+<!--
 [CyclicRotation](https://nhistory.github.io/DevBlog/2021/10/03/cyclicrotation/) <br />
 [Binary Gap](https://nhistory.github.io/DevBlog/2021/09/27/binary-gap/) <br />
 [Immutability and Redux](https://nhistory.github.io/DevBlog/2021/09/20/immutability-and-redux/) <br />
-<!-- BLOG-POST-LIST:END -->
+-->
 
+<!--
 ➡️ [more blog posts...](https://nhistory.github.io/DevBlog/)
-
----
+-->
 
 [website]: https://nhistory.github.io/DevBlog/
 [twitter]: https://twitter.com/SehwanDev
